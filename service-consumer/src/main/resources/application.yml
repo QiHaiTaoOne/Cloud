@@ -1,0 +1,15 @@
+
+##项目名称
+spring:
+        application:
+                    name: service-consumer
+#项目端口号
+server:
+        port: 8174
+
+
+ ##eureka服务注册发现中心
+eureka:
+       client:
+              serviceUrl:
+                          defaultZone: http://localhost:8172/eureka/
