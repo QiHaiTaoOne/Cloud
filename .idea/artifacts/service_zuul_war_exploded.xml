@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="service-zuul:war exploded">
+    <output-path>$PROJECT_DIR$/../cloud/service-zuul/target/service-zuul</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="service-zuul" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../cloud/service-zuul/target/service-zuul/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="service-zuul/web/Web" />
+    </root>
+  </artifact>
+</component>

@@ -1,43 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d8adac0-293c-4a6a-82dc-b5ac5a7a00a4" name="Default" comment="git提交">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cloud/.idea/artifacts/service_consumer_feign_hystrix_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cloud/.idea/artifacts/service_consumer_feign_hystrix_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cloud/.idea/artifacts/service_consumer_feign_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cloud/.idea/artifacts/service_consumer_feign_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cloud/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_8_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cloud/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cloud/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cloud/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cloud/.idea/libraries/Maven__io_github_openfeign_feign_core_9_5_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cloud/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_5_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cloud/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_5_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cloud/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cloud/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cloud/.idea/libraries/Maven__org_jvnet_animal_sniffer_annotation_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cloud/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cloud/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_feign_1_3_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cloud/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_hystrix_1_3_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cloud/service-consumer-feign-hystrix/service-consumer-feign-hystrix.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cloud/service-consumer-feign-hystrix/src/main/java/com/service/consumer/feign/hystrix/controller/ConsumerController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cloud/service-consumer-feign-hystrix/src/main/java/com/service/consumer/feign/hystrix/service/DemoService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cloud/service-consumer-feign/src/main/java/com/service/consumer/feign/controller/ConsumerController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cloud/service-consumer-feign/src/main/java/com/service/consumer/feign/service/DemoService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cloud/service-consumer-feign/src/main/java/com/service/consumer/feign/service/hystrix/DemoServiceHystrix.java" />
-      <change beforePath="$PROJECT_DIR$/../cloud/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../cloud/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/../cloud/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../cloud/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/../cloud/.idea/misc.xml" afterPath="$PROJECT_DIR$/../cloud/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/../cloud/.idea/modules.xml" afterPath="$PROJECT_DIR$/../cloud/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/../cloud/.idea/uiDesigner.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../cloud/.idea/vcs.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../cloud/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../cloud/pom.xml" afterPath="$PROJECT_DIR$/../cloud/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/../cloud/service-client/service-client.iml" afterPath="$PROJECT_DIR$/../cloud/service-client/service-client.iml" />
-      <change beforePath="$PROJECT_DIR$/../cloud/service-consumer/service-consumer.iml" afterPath="$PROJECT_DIR$/../cloud/service-consumer/service-consumer.iml" />
-      <change beforePath="$PROJECT_DIR$/../cloud/service-consumer/src/main/java/com/service/consumer/ConsumerController.java" afterPath="$PROJECT_DIR$/../cloud/service-consumer/src/main/java/com/service/consumer/ConsumerController.java" />
-      <change beforePath="$PROJECT_DIR$/../cloud/service-consumer/src/main/java/com/service/consumer/ServiceConsumer.java" afterPath="$PROJECT_DIR$/../cloud/service-consumer/src/main/java/com/service/consumer/ServiceConsumer.java" />
-    </list>
+    <list default="true" id="1d8adac0-293c-4a6a-82dc-b5ac5a7a00a4" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/serviceeureka/target/" />
@@ -613,7 +577,7 @@
       <workItem from="1530582242491" duration="3537000" />
       <workItem from="1530586013880" duration="743000" />
       <workItem from="1530586817880" duration="13578000" />
-      <workItem from="1530609053251" duration="4126000" />
+      <workItem from="1530609053251" duration="4137000" />
     </task>
     <task id="LOCAL-00001" summary="git">
       <created>1530597556684</created>
@@ -650,11 +614,18 @@
       <option name="project" value="LOCAL" />
       <updated>1530601686597</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="git提交">
+      <created>1530613202612</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1530613202612</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21984000" />
+    <option name="totallyTimeSpent" value="21995000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -713,7 +684,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git" />
-    <option name="LAST_COMMIT_MESSAGE" value="git" />
+    <MESSAGE value="git提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="git提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -788,6 +760,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2268">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
