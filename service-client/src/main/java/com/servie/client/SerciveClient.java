@@ -9,6 +9,6 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 public class SerciveClient {
     public static void main(String[] args) {
         SpringApplication.run(SerciveClient.class, args);
-        System.out.print("======================项目启动成功：==============================");
+        System.out.print("======================项目生成提供方启动成功：==============================");
     }
 }
