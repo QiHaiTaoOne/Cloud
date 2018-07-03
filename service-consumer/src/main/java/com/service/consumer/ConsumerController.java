@@ -7,14 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
-/**
- * @Package org.jon.lv.controller.DemoController
- * @Description: DemoController
- * @Copyright: Copyright (c) 2016
- * Author lv bin
- * @date 2017/6/27 15:42
- * version V1.0.0
- */
+
 @RestController
 public class ConsumerController {
 
@@ -40,6 +33,13 @@ public class ConsumerController {
 
         System.out.println("******************************" + url);
 
+        return restTemplate.getForObject(url, String.class);
+    }
+
+    @GetMapping("/ribbon")
+    public String ribbon() {
+        ServiceInstance serviceInstance = loadBalancerClient.choose("service-client");
+        String url = "http://" + serviceInstance.getHost() + ":" + serviceInstance.getPort() + "/demo";
         return restTemplate.getForObject(url, String.class);
     }
 }

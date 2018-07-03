@@ -3,7 +3,10 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/../cloud/service-client" />
     <file type="web" url="file://$PROJECT_DIR$/../cloud/service-consumer" />
+    <file type="web" url="file://$PROJECT_DIR$/../cloud/service-consumer-feign" />
+    <file type="web" url="file://$PROJECT_DIR$/../cloud/service-consumer-feign-hystrix" />
     <file type="web" url="file://$PROJECT_DIR$/../cloud/service-eureka" />
+    <file type="web" url="file://$PROJECT_DIR$/../cloud/service-zuul" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -14,6 +17,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/service-client/pom.xml" />
+        <option value="$PROJECT_DIR$/service-consumer-feign/pom.xml" />
       </set>
     </option>
   </component>

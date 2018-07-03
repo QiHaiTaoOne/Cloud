@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="service-consumer-feign:war">
+    <output-path>$PROJECT_DIR$/../cloud/service-consumer-feign/target</output-path>
+    <root id="archive" name="service-consumer-feign.war">
+      <element id="artifact" artifact-name="service-consumer-feign:war exploded" />
+    </root>
+  </artifact>
+</component>

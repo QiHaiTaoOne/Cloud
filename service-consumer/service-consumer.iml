@@ -19,10 +19,10 @@
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6">
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
-    <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
-      <excludeFolder url="file://$MODULE_DIR$/target" />
+    <content url="file://$MODULE_DIR$/../../cloud/service-consumer">
+      <sourceFolder url="file://$MODULE_DIR$/../../cloud/service-consumer/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../cloud/service-consumer/src/main/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../cloud/service-consumer/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

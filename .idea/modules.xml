@@ -3,9 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cloud.iml" filepath="$PROJECT_DIR$/cloud.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../cloud/service-client/service-client.iml" filepath="$PROJECT_DIR$/../cloud/service-client/service-client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../cloud/service-consumer/service-consumer.iml" filepath="$PROJECT_DIR$/../cloud/service-consumer/service-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-client/service-client.iml" filepath="$PROJECT_DIR$/service-client/service-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-consumer/service-consumer.iml" filepath="$PROJECT_DIR$/service-consumer/service-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cloud/service-consumer-feign/service-consumer-feign.iml" filepath="$PROJECT_DIR$/../cloud/service-consumer-feign/service-consumer-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-consumer-feign/service-consumer-feign.iml" filepath="$PROJECT_DIR$/service-consumer-feign/service-consumer-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cloud/service-consumer-feign-hystrix/service-consumer-feign-hystrix.iml" filepath="$PROJECT_DIR$/../cloud/service-consumer-feign-hystrix/service-consumer-feign-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-consumer-feign-hystrix/service-consumer-feign-hystrix.iml" filepath="$PROJECT_DIR$/service-consumer-feign-hystrix/service-consumer-feign-hystrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-eureka/service-eureka.iml" filepath="$PROJECT_DIR$/service-eureka/service-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cloud/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/../cloud/service-zuul/service-zuul.iml" />
     </modules>
   </component>
 </project>

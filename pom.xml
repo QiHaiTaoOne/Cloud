@@ -12,6 +12,9 @@
         <module>service-eureka</module>
         <module>service-client</module>
         <module>service-consumer</module>
+        <module>service-consumer-feign</module>
+        <module>service-consumer-feign-hystrix</module>
+        <module>service-zuul</module>
     </modules>
 
 
