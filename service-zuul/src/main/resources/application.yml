@@ -2,7 +2,7 @@ spring:
        application:
                     name: service-zuul
 server:
-        port: 8176
+        port: 8177
 
 eureka:
        client:
@@ -14,10 +14,10 @@ zuul:
                index.url: forward:/home
                api-a:
                      path: /api-a/**
-                     serviceId: eureka-consumer
+                     serviceId: service-consumer
                api-b:
                      path: /api-b/**
-                     serviceId: eureka-consumer-feign
+                     serviceId: service-consumer-feign
 
                baidu:
                       path: /baidu/**
